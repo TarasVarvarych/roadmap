@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/roadmap/static/css/main.7acaea2f.css",
-    "main.js": "/roadmap/static/js/main.07d3183d.js",
+    "main.css": "/roadmap/static/css/main.088b97b8.css",
+    "main.js": "/roadmap/static/js/main.e0a4e828.js",
+    "static/media/backdroundDesc.jpg": "/roadmap/static/media/backdroundDesc.f7311e27c3e2deb9b5a1.jpg",
+    "static/media/bambooDesc.png": "/roadmap/static/media/bambooDesc.297961d61027b8779ff4.png",
+    "static/media/backgroundTab.jpg": "/roadmap/static/media/backgroundTab.9c26a6e6ec06bb3bcaf2.jpg",
+    "static/media/bambooTablet.png": "/roadmap/static/media/bambooTablet.65fc3ef09511df4dbfb8.png",
+    "static/media/bambooMobile.png": "/roadmap/static/media/bambooMobile.c07d4db257837cc3918d.png",
+    "static/media/backgroundMob.jpg": "/roadmap/static/media/backgroundMob.ae63ad99f1723399bfe8.jpg",
     "index.html": "/roadmap/index.html",
-    "main.7acaea2f.css.map": "/roadmap/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/roadmap/static/js/main.07d3183d.js.map"
+    "main.088b97b8.css.map": "/roadmap/static/css/main.088b97b8.css.map",
+    "main.e0a4e828.js.map": "/roadmap/static/js/main.e0a4e828.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.088b97b8.css",
+    "static/js/main.e0a4e828.js"
   ]
 }
